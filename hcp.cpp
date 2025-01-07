@@ -370,7 +370,7 @@ int main() {
 	vector<int> path;
 	int cost = 0;
 
-	const int Files = 4;
+	const int Files = 5;
 	string file_name = "test/P2_test1";
 	string txt = ".txt";
 
